@@ -1,5 +1,5 @@
 ---
-title: "hello-world"
+title: ""
 image: "images/Erin_headshot.png"
 links:
   - label: email
