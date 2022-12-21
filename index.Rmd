@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Erin L. McParland (she/her)"
 image: "images/Erin_headshot.png"
 links:
   - label: email
@@ -14,8 +14,6 @@ site: distill::distill_website
 output:
   postcards::solana
 ---
-
-# Erin L. McParland (she/her)
 
 I am currently a [Simons Foundation Postdoctoral Fellow](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/) in the Marine Chemistry and Geochemistry Department at the Woods Hole Oceanographic Institution in the [Kujawinski lab](https://www2.whoi.edu/site/molecular-environmental-science/)
 
