@@ -1,0 +1,23 @@
+name: ""
+title: "Erin L. McParland"
+description: |
+  Personal website of Erin McParland
+output_dir: "docs"
+navbar:
+  left:
+    - text: "home"
+      href: index.html
+    - text: "research"
+      menu:
+      - text: "projects"
+        href: projects.html
+      - text: "in lab"
+        href: lab.html
+      - text: "at sea"
+        href: sea.html
+      - text: "my mac"
+        href: mac.html
+    - text: "publications"
+      href: publications.html
+output: distill::distill_article
+theme: theme.css

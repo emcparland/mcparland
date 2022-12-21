@@ -1,0 +1,53 @@
+---
+title: "science at sea"
+description:
+output: 
+  distill::distill_article:
+    css: theme.css
+    toc: true
+    toc_depth: 2
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
+```
+
+```{r }
+img1 <- image_read("images/gcintheair.jpeg")
+bordered_img1 <- image_border(img1, "white", "100x100")
+image_write(bordered_img1, "images/img1.png")
+
+img1 <- image_read("images/gcsea.jpeg")
+bordered_img1 <- image_border(img1, "white", "100x100")
+image_write(bordered_img1, "images/img2.png")
+
+img1 <- image_read("images/bios.jpeg")
+bordered_img1 <- image_border(img1, "white", "100x100")
+image_write(bordered_img1, "images/img3.png")
+
+img1 <- image_read("images/2018_2_Oceanuscruise_PC_Frank Xavier Ferrer Gonzalez.jpg")
+bordered_img1 <- image_border(img1, "white", "100x100")
+image_write(bordered_img1, "images/img4.png")
+
+img1 <- image_read("images/ctds.jpeg")
+bordered_img1 <- image_border(img1, "white", "100x100")
+image_write(bordered_img1, "images/img5.png")
+
+img1 <- image_read("images/2016_Investigator_2.jpg")
+bordered_img1 <- image_border(img1, "white", "100x100")
+image_write(bordered_img1, "images/img6.png")
+```
+
+```{r out.width ="50%", echo=FALSE, fig.show = 'hold', fig.cap="When conducting science at sea, we have to creatively pack-up everything available to us on land and transport it onto a rocking ship."}
+knitr::include_graphics(c("images/img1.png", "images/img2.png"))
+```
+
+```{r, out.width= "50%", echo =FALSE, fig.show='hold',fig.cap = "DOM extraction onboard the R/V *Atlantic Explorer* . Collecting samples."}
+knitr::include_graphics(c("images/img3.png","images/img4.png"))
+```
+
+```{r, out.width= "50%", echo =FALSE, fig.show='hold',fig.cap = "CTD bay onboard the R/V *Investigator*"}
+knitr::include_graphics(c("images/img5.png", "images/img6.png"))
+```
+

@@ -1,0 +1,45 @@
+---
+title: "publications"
+description:
+output: 
+  distill::distill_article:
+    css: theme.css
+    toc: true
+    toc_depth: 3
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
+```
+
+*Co-first authors
+
++Former USC undergraduate co-authors.
+
+# 2022
+O’Brien,J., **McParland,E.**, Bramucci,A., Ostrowski,M., Siboni,N., Ingleton,T., Brown,M., Levine, N., Laverock, B., Petrou, K., Seymour, J. 2022. The microbiological drivers of temporally dynamic DMSP cycling processes in Australian coastal shelf waters. *Frontiers in Microbiology*. DOI: [10.3389/fmicb.2022.894026](https://www.frontiersin.org/articles/10.3389/fmicb.2022.894026/full)
+
+O’Brien,J., **McParland,E.**, Bramucci,A., Siboni,N., Ostrowski,M., Kalkhe,T., Levine,N.,Brown, M., Van De Kamp, J., Bodrossy, L., Messer, L., Petrou, K., Seymour, J. 2022. Biogeographical and seasonal dynamics of the marine Roseobacter community and ecological links to DMSP-producing phytoplankton. *ISME Communications*. DOI: [10.1038/s43705-022-00099-3](https://www.nature.com/articles/s43705-022-00099-3)
+
+# 2021
+**McParland,E.\* **, Alexander,H.\*, Johnson,W.\*. 2021. The osmolyte ties that bind: genomic insights into synthesis and breakdown of organic osmolytes in marine microbes. *Frontiers in Marine Science Special Edition: Role of micronutrients in mediating microbial community interactions*. DOI: [10.3389/fmars.2021.689306](https://www.frontiersin.org/articles/10.3389/fmars.2021.689306/full)
+
+**McParland,E.**, Lee,M., Webb,E., Alexander,H., Levine,N. 2021. DMSP synthesis genes distinguish two types of DMSP producer phenotypes. *Environmental Microbiology*. DOI: [10.1111/1462-2920.15393](https://sfamjournals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.15393)
+
+Jackson,R., Matrai,P., Woodhouse,M., Cropp,R., Jones,G., Deschaseaux,E., Omori,Y., **McParland, E.**, Swan, H., Tanimoto, H. 2021. Parameterizing the impact of seawater temperature and irradiance on dimethylsulfide (DMS) in the Great Barrier Reef and the contribution of coral reefs to the global sulfur cycle. *JGR Oceans*. DOI: [10.1029/2020jc016783](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JC016783)
+
+# 2020
+**McParland,E.**, Wright,A.+, Art,K.+, He,M.+, Levine,N. 2020. Evidence for contrasting roles of DMSP production in *Emiliania huxleyi* and *Thalassiosira oceanica*. *New Phytologist*. DOI: [10.1111/nph.16374](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16374)
+
+# 2019
+**McParland,E.** and N.Levine.2019.The role of differential DMSP production and community composition in predicting variability of global surface DMSP concentrations. Limnology & Oceanography. DOI: [10.1002/lno.11076](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11076)
+
+# 2018
+Jones,G., Curran,M., Deschaseaux,E., Omori,Y., Tanimoto,H., Swan,H., Eyre,B., Ivey,J., **McParland, E.**, Gabric, A., Cropp, R. 2018. The flux and emission of DMS from the Great Barrier Reef region and potential influence on the climate of Northeast Australia. *JGR Atmospheres*. DOI: [10.1029/2018JD029210](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD029210)
+
+# 2017
+Lee,M.,Walworth,N.,McParland,E.,Fu,F.,Mincer,T.,Levine,N.,Hutchins,D.,Webb,E.2017. The *Trichodesmium* consortium: conserved heterotrophic co-occurrence and genomic signatures of potential interactions. ISME Journal. DOI: [10.1038/ismej.2017.49](https://www.nature.com/articles/ismej201749)
+
+# 2015
+McParland, E., Benitez-Nelson, C., Taylor, G., Thunell, R., Rollings, A., Lorenzoni, L. 2015. Cycling of suspended particulate phosphorus in the redoxcline of the Cariaco Basin. Marine Chemistry. DOI: [10.1016/j.marchem.2015.07.008](https://www.sciencedirect.com/science/article/abs/pii/S0304420315300256)

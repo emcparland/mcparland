@@ -1,0 +1,28 @@
+---
+title: "hello-world"
+image: "images/Erin_headshot.png"
+links:
+  - label: email
+    url: "emcparland@whoi.edu"
+  - label: scholar
+    url: "https://scholar.google.com/citations?user=D75oei0AAAAJ&hl=en"
+  - label: github
+    url: "https://github.com/emcparland"
+  - label: cv
+    url: "products/cv.pdf"
+site: distill::distill_website
+output:
+  postcards::solana
+---
+
+# Erin L. McParland (she/her)
+
+I am currently a [Simons Foundation Postdoctoral Fellow](https://www.simonsfoundation.org/grant/simons-postdoctoral-fellowships-in-marine-microbial-ecology/) in the Marine Chemistry and Geochemistry Department at the Woods Hole Oceanographic Institution in the [Kujawinski lab](https://www2.whoi.edu/site/molecular-environmental-science/)
+
+## education
+
+**PhD 2019** | Marine Biology and Biological Oceanography |
+University of Southern California | Los Angeles, CA
+
+**BS 2013** | Marine Science and Chemical Oceanography, Chemistry Minor |
+University of South Carolina | Columbia, SC

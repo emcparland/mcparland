@@ -1,0 +1,19 @@
+---
+title: "in the lab"
+description:
+output: 
+  distill::distill_article:
+    css: theme.css
+    toc: true
+    toc_depth: 1
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, fig.align = "center")
+```
+
+# Biogeochemistry data analyses
+
+The central dogma of biology (DNA -> RNA -> protein (-> metabolites)) is a shared genetic code that can be leveraged to answer many of our questions about the organic molecules produced by microbial metabolisms. Like most of my peers, I have learned different bioinformatic tools as needed to answer my science questions from friends and other publicly available tools. On my github I post not only my codes, but also annotated files that I hope are interpretable to any new and eager learner. I also include some useful resources below that I often use myself.
+
